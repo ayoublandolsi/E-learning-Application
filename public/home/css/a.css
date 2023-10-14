@@ -1,0 +1,103 @@
+/* Style du corps de la page */
+body {
+    background-color: #27bed5;
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+ }
+ 
+ /* Style des champs de saisie */
+ input[type="text"],
+ textarea,
+ select {
+    display: block;
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 20px;
+    border: 1px solid #10d631;
+    border-radius: 5px;
+    box-sizing: border-box;
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+ }
+ 
+ /* Style des boutons radio et des cases à cocher */
+ input[type="radio"],
+ input[type="checkbox"] {
+    margin-right: 10px;
+ }
+ 
+ /* Style du bouton de soumission */
+ button[type="submit"] {
+    display: block;
+    margin: 20px auto 0;
+    padding: 10px 20px;
+    background-color: #4CAF50;
+    color: #0a6df7;
+    border: none;
+    border-radius: 5px;
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+    cursor: pointer;
+ }
+ 
+ /* Style du pied de page */
+ .footer {
+    text-align: center;
+    margin-top: 50px;
+    padding: 10px;
+    background-color: #9713fb;
+ }
+ .footer span {
+    font-weight: bold;
+ }
+ table {
+   border-collapse: collapse; /* fusionner les bordures des cellules */
+   width: 100%;
+   max-width: 800px; /* limiter la largeur à 800 pixels */
+   margin: auto; /* centrer horizontalement */
+   font-family: Arial, sans-serif;
+   font-size: 14px;
+ }
+ 
+ th, td {
+   padding: 10px;
+   text-align: left;
+   vertical-align: middle;
+   border: 2px solid #ddd;
+ }
+ 
+ th {
+   background-color: #f2f2f2;
+   font-weight: bold;
+ }
+ 
+ tr:nth-child(even) {
+   background-color: #f9f9f9;
+ }
+ 
+ /* Styler les liens dans le tableau */
+ a {
+   color: blue;
+   text-decoration: none;
+ }
+ 
+ a:hover {
+   text-decoration: underline;
+ }
+ .timer-container {
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   height: 50vh;
+ }
+ 
+ .timer {
+   font-size: 2rem;
+   font-weight: bold;
+ }
+ 
+ .timer span {
+   margin:  0.5rem;
+ }
+ 
+ 
