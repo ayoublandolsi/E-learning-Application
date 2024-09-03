@@ -49,7 +49,7 @@ Below are some screenshots of the application:
 <p align="center">
   <img src="images/Image21.jpg" alt="Image 21" width="250" height="200"/>
     <img src="images/Image8.jpg" alt="Image 8" width="250" height="200"/>
-    <img src="images/Image1.jpg" alt="Image 1" width="250" height="200"/>
+    <img src="images/Image21.jpg" alt="Image 1" width="250" height="200"/>
 
 </p>
 <p align="center">
